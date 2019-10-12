@@ -1,0 +1,9 @@
+output
+tags
+tags.lock
+tags.temp
+*.pyc
+.idea/
+idl/
+.vscode/
+go.sum
